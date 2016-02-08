@@ -23,6 +23,8 @@ var path = '/Users/watson/code/node_modules/blackjack/node_modules/picture-tube/
 assert.strictEqual(parse(path), 'picture-tube'))
 ```
 
+Returns `undefined` if module name cannot be found.
+
 ## License
 
 MIT
