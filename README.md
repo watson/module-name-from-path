@@ -15,7 +15,7 @@ npm install module-name-from-path --save
 ## Usage
 
 ```js
-var assert = reqire('assert')
+var assert = require('assert')
 var parse = require('module-name-from-path')
 
 var path = '/Users/watson/code/node_modules/blackjack/node_modules/picture-tube/bin/tube.js'
