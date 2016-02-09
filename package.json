@@ -1,6 +1,6 @@
 {
   "name": "module-name-from-path",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Extract the Node.js module name given an abosulte path to a file inside the module",
   "main": "index.js",
   "dependencies": {},
@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/watson/module-name-from-path#readme",
   "coordinates": [
-    55.6666196,
-    12.5800046
+    55.66654879999999,
+    12.5801618
   ]
 }
