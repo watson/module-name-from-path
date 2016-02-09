@@ -1,6 +1,6 @@
 # module-name-from-path
 
-Extract the Node.js module name given an abosulte path to a file inside
+Extract the Node.js module name given an absolute path to a file inside
 the module.
 
 [![Build status](https://travis-ci.org/watson/module-name-from-path.svg?branch=master)](https://travis-ci.org/watson/module-name-from-path)
